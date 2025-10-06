@@ -1,2 +1,5 @@
 # EDGEDETECTIONS
-HAPPY Bathukamma CODE : * OPEN AND LOOK THE OUTCOME THEN LATER YOU CAN RUN BUT CHECK BEFORE OUTCOMES IN MY A.I.M.L WORLD. : https://colab.research.google.com/drive/1e87KPLfjFbuDJR0duxjJ6e6qZ8wgNNTI?usp=sharing
+HAPPY Bathukamma CODE : 
+OPEN AND LOOK THE OUTCOME THEN LATER YOU CAN RUN BUT CHECK BEFORE OUTCOMES IN MY A.I.M.L WORLD. 
+https://colab.research.google.com/drive/1e87KPLfjFbuDJR0duxjJ6e6qZ8wgNNTI?usp=sharing
+
